@@ -1,0 +1,44 @@
+html body{
+    background-color: #89B9AD;
+}
+
+h1,h2,h6{
+    text-align: center;
+}
+.col-6{
+    border: solid black 3px;
+    border-radius: 30px;
+}
+.dice1,.dice2{
+    border: solid black 3px;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    font-size: 10rem;
+
+    display: flex; 
+
+    align-items: center; 
+  
+    justify-content: center; 
+  
+    text-align: center; 
+}
+.dice1{
+    margin-left: 227px;
+}
+h3{
+    text-align: center;
+}
+button{
+    margin-top: 100px;
+    align-items: center;
+}
+.img1{
+    height: 200px;
+}
+
+
+
+
+
